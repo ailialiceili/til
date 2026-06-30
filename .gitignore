@@ -27,7 +27,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
-git-reset-history.bat
-
 # End of https://www.toptal.com/developers/gitignore/api/windows
